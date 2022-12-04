@@ -55,5 +55,3 @@ function overlapAll(a: Group, b: Group): boolean {
   const bvals = _.range(b.from, b.to+1)
   return _.intersection(avals, bvals).length !== 0
 }
-
-
