@@ -1,2 +1,4 @@
-input
-tmp
+go/input
+go/tmp
+ts/node_modules
+ts/input
