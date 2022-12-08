@@ -19,7 +19,7 @@
     },
     {
       "type": "node",
-
+      "cwd": "ts",
       "request": "launch",
       "name": "Tests with debug file",
       "skipFiles": [
